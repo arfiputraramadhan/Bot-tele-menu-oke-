@@ -1,9 +1,10 @@
 
 YG PAKE TOKEN BOT GW MEMEK LU PADA
+KALO MAU PAKE GANTI TOKEN BOT NYA AMA OWNER 
 
 📦 Ultimate Game Store Bot
 
-https://images.unsplash.com/photo-1550745165-9bc0b252726f
+https://files.catbox.moe/z5h0d8.png
 
 Sebuah bot Telegram lengkap untuk menjual akun game premium dan script bot otomatis dengan sistem pembayaran terintegrasi.
 
@@ -59,7 +60,7 @@ Prerequisites
 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ultimate-game-store-bot.git
+git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
 cd ultimate-game-store-bot
 ```
 
@@ -298,8 +299,8 @@ Jika bot ini membantu bisnis Anda, pertimbangkan untuk:
 
 ```bash
 # Install & run in 3 steps:
-1. git clone https://github.com/yourusername/ultimate-game-store-bot.git
-2. cd ultimate-game-store-bot && npm install
+1. git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
+2. cd Bot-tele-menu-oke- && npm install
 3. nano .env  # Edit config, lalu:
    npm start
 ```
