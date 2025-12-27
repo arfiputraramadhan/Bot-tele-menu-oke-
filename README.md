@@ -298,13 +298,15 @@ Jika bot ini membantu bisnis Anda, pertimbangkan untuk:
 🚀 Quick Start Commands
 
 ```bash
-# Install & run in 3 steps:
-1.pkg install git
-2. git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
-3. pkg nodejs
-4. cd Bot-tele-menu-oke- && npm install
-5. nano .env  # Edit config, lalu:
-6.npm start
+# Install & run
+. pkg update && pkg upgrade
+. pkg install git
+. git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
+. pkg nodejs
+. cd Bot-tele-menu-oke- && npm install
+. nano .env  # Edit config, lalu:
+. npm install
+. npm start
 ```
 
 Happy Selling! 🎮📦
