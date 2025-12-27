@@ -299,10 +299,12 @@ Jika bot ini membantu bisnis Anda, pertimbangkan untuk:
 
 ```bash
 # Install & run in 3 steps:
-1. git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
-2. cd Bot-tele-menu-oke- && npm install
-3. nano .env  # Edit config, lalu:
-   npm start
+1.pkg install git
+2. git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
+3. pkg nodejs
+4. cd Bot-tele-menu-oke- && npm install
+5. nano .env  # Edit config, lalu:
+6.npm start
 ```
 
 Happy Selling! 🎮📦
