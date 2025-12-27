@@ -1,0 +1,26 @@
+{
+  "name": "telegram-game-store-bot",
+  "version": "4.0.0",
+  "description": "Telegram Bot Ultimate Game Store dengan Google Sheets",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "debug": "node --trace-warnings bot.js",
+    "setup": "node setup.js"
+  },
+  "keywords": ["telegram", "bot", "game-store", "ecommerce", "google-sheets"],
+  "author": "Ultimate Game Store",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "dotenv": "^16.3.1",
+    "googleapis": "^128.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
