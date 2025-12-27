@@ -302,7 +302,7 @@ Jika bot ini membantu bisnis Anda, pertimbangkan untuk:
 . pkg update && pkg upgrade
 . pkg install git
 . git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
-. pkg nodejs
+. pkg install nodejs
 . cd Bot-tele-menu-oke- && npm install
 . nano .env  # Edit config, lalu:
 . npm install
