@@ -272,9 +272,9 @@ MIT License - see LICENSE file
 
 Ultimate Game Store Team
 
-· Telegram: @ultimate_gamestore
-· Email: support@ultimategamestore.com
-· Website: https://ultimategamestore.com
+· Telegram: @sokkk91
+· Email: arfiofficial@arfi.web.id
+· Website: https://arfi.web.id
 
 🙏 Support
 
