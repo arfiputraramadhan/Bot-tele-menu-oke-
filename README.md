@@ -61,7 +61,7 @@ Prerequisites
 
 ```bash
 git clone https://github.com/arfiputraramadhan/Bot-tele-menu-oke-.git
-cd ultimate-game-store-bot
+cd Bot-tele-menu-oke-
 ```
 
 2. Install Dependencies
