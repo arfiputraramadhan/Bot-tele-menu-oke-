@@ -1,3 +1,6 @@
+
+YG PAKE TOKEN BOT GW MEMEK LU PADA
+
 📦 Ultimate Game Store Bot
 
 https://images.unsplash.com/photo-1550745165-9bc0b252726f
